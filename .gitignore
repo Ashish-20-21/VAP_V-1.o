@@ -1,0 +1,65 @@
+# ==========================================
+# VAP - Git Ignore
+# ==========================================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE Files
+.idea/
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Runtime Data
+learning_data.json
+usage_snapshot.json
+
+# Runtime Flags
+OFF.txt
+
+# Generated Audio Files
+sysinfo_audio.mp3
+vap_response.mp3
+welcome_audio.mp3
+welcome_audio_night.mp3
+*.wav
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Python Build Files
+build/
+dist/
+*.egg-info/
+
+# Test Cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment Variables / Secrets
+.env
+.env.local
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Misc
+*.bak
+*.old

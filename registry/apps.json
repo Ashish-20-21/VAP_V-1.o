@@ -1,0 +1,258 @@
+
+{
+
+"_comment_": {
+  "To remember" : "WHILE USING METHOD- \"WEB\" USE '\\\\\\\\' FOUR SLASH COMPULSARY THIS WILL RESOLVE WEB RELATED ISSUE\"",
+  "data": "value"
+},
+
+"terminal": {
+  "method": "system",
+  "command": "cmd.exe"
+},
+
+"wise memory": {
+  "method": "exe",
+  "command": "C:\\Program Files\\Wise\\Wise Memory Optimizer\\WiseMemoryOptimzer.exe"
+},
+"task manager": {
+    "method": "system",
+    "command": "taskmgr.exe"
+},
+"taskmanager": {
+    "method": "system",
+    "command": "taskmgr.exe"
+},
+"chrome": {
+    "method": "file",
+    "command": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+},
+
+"cmd": {
+    "method": "system",
+    "command": "cmd.exe"
+},
+"explorer": {
+    "method": "system",
+    "command": "explorer.exe"
+},
+"browser": {
+    "method": "exe",
+    "command": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+},
+"yt": {
+    "method": "web",
+    "command": "\"https://youtube.com\""
+
+},
+"wa": {
+    "method": "uwp",
+    "command": "shell:AppsFolder\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App",
+    "process": "WhatsApp.Root"
+},
+"ide": {
+    "method": "exe",
+    "command": "C:\\Program Files\\JetBrains\\PyCharm 2025.3.3\\bin\\pycharm64.exe"
+},
+"brave": {
+  "method": "web",
+  "command": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+},
+"microsoft edge": {
+  "method": "web",
+  "command": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+},
+
+"notepad": {
+  "method": "system",
+  "command": "notepad.exe"
+},
+"calculator": {
+  "method": "system",
+  "command": "calc.exe"
+},
+"command prompt": {
+  "method": "system",
+  "command": "cmd.exe"
+},
+"powershell": {
+  "method": "system",
+  "command": "powershell.exe"
+},
+"resource monitor": {
+  "method": "system",
+  "command": "perfmon.exe"
+},
+"on-screen keyboard": {
+  "method": "system",
+  "command": "osk.exe"
+},
+
+"python": {
+  "method": "exe",
+  "command": "C:\\Program Files\\Python310\\python.exe"
+},
+"pycharm": {
+  "method": "exe",
+  "command": "C:\\Program Files\\JetBrains\\PyCharm 2025.3.3\\bin\\pycharm64.exe"
+},
+
+"vlc": {
+  "method": "exe",
+  "command": "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe"
+},
+"windows media player": {
+  "method": "exe",
+  "command": "C:\\Program Files (x86)\\Windows Media Player\\wmplayer.exe"
+},
+
+"anydesk": {
+  "method": "exe",
+  "command": "C:\\Program Files (x86)\\AnyDesk\\AnyDesk.exe"
+},
+"dropbox": {
+  "method": "exe",
+  "command": "C:\\Program Files (x86)\\Dropbox\\Client\\Dropbox.exe"
+},
+"onedrive": {
+  "method": "exe",
+  "command": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe"
+},
+
+"wps office": {
+  "method": "exe",
+  "command": "C:\\Users\\Ashish\\AppData\\Local\\Kingsoft\\WPS Office\\ksolaunch.exe"
+},
+"wps pdf": {
+  "method": "exe",
+  "command": "C:\\Users\\Ashish\\AppData\\Local\\Kingsoft\\WPS Office\\ksolaunch.exe"
+},
+
+"wise memory optimizer": {
+  "method": "exe",
+  "command": "C:\\Program Files\\Wise\\Wise Memory Optimizer\\WiseMemoryOptimzer.exe"
+},
+
+"geforce experience": {
+  "method": "exe",
+  "command": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\NVIDIA GeForce Experience.exe"
+},
+
+"youtube": {
+    "method": "web",
+    "command": "\"https://youtube.com\""
+},
+"camera": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\Microsoft.WindowsCamera_8wekyb3d8bbwe!App",
+  "process": "ApplicationFrameHost"
+},
+"microsoft store": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\Microsoft.WindowsStore_8wekyb3d8bbwe!App",
+  "process": "ApplicationFrameHost"
+},
+"photos": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\Microsoft.Windows.Photos_8wekyb3d8bbwe!App",
+  "process": "Photos"
+},
+"settings": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel",
+  "process": "SystemSettings"
+},
+"calendar": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.calendar",
+  "process": "ApplicationFrameHost"
+},
+"outlook": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\Microsoft.OutlookForWindows_8wekyb3d8bbwe!Microsoft.OutlookforWindows",
+  "process": "olk"
+},
+"clock": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\Microsoft.WindowsAlarms_8wekyb3d8bbwe!App",
+  "process": "ApplicationFrameHost"
+},
+"whatsapp": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App",
+  "process": "WhatsApp.Root"
+},
+"file explorer": {
+  "method": "system",
+  "command": "explorer.exe"
+},
+"weather": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\Microsoft.BingWeather_8wekyb3d8bbwe!App",
+  "process": "ApplicationFrameHost"
+},
+"copilot": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\Microsoft.Copilot_8wekyb3d8bbwe!App",
+  "process": "mscopilot"
+},
+"chess 3d": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\ATrillionGamesLtd.3DChessMaster_2cw2yhd8jafk0!App",
+  "process": "ApplicationFrameHost"
+},
+"gmail": {
+  "method": "web",
+  "command": "chrome.exe --profile-directory=\"Profile 3\" https://mail.google.com"
+},
+"chatgpt": {
+  "method": "web",
+  "command": "\"C:\\\\Users\\\\Ashish\\\\Desktop\\\\ChatGPT (Ashish).lnk\""
+},
+"gpt": {
+  "method": "web",
+  "command": "\"C:\\\\Users\\\\Ashish\\\\Desktop\\\\ChatGPT (Ashish).lnk\""
+},
+"claude": {
+  "method": "web",
+  "command": "\"C:\\\\Users\\\\Ashish\\\\Desktop\\\\Claude (Ashish).lnk\""
+},
+"deepseek": {
+"method": "web",
+"command": "\"C:\\Users\\Ashish\\Desktop\\DeepSeek - Into the Unknown (PANDEY (GIT)).lnk\""
+},
+"system info": {
+  "method": "plugin",
+  "command": "system_info"
+},
+"ss": {
+  "method": "file",
+  "command": "C:\\Users\\Ashish\\Desktop\\VAP-SS"
+},
+"system control": {
+  "method": "plugin",
+  "command": "system_control"
+},
+"volume": {
+  "method": "plugin",
+  "command": "system_control"
+},
+"inc": {
+  "method": "system",
+  "command": "\"C:\\Users\\Ashish\\AppData\\Local\\Programs\\Python\\Python310\\python.exe\" \"C:\\Users\\Ashish\\PycharmProjects\\PythonProject\\vap_inc.py\""
+},
+  "main": {
+  "method": "system",
+  "command": "\"C:\\Users\\Ashish\\AppData\\Local\\Programs\\Python\\Python310\\python.exe\" \"C:\\Users\\Ashish\\PycharmProjects\\PythonProject\\main.py\""
+},
+
+"daily update": {
+  "method": "web",
+  "command": "https://docs.google.com/spreadsheets/d/1SNYh7GN_MiDJJw4kDFX3yfg-7OMU1qghXVLXyyS59Ms/edit?gid=835655910#gid=835655910"
+},
+
+"sysinfo": {
+  "method": "plugin",
+  "command": "system_info"
+}
+}

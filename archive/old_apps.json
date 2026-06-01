@@ -1,0 +1,323 @@
+{
+         "brave": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+        "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "hp audio switch": "C:\\Program Files (x86)\\HP\\HPAudioSwitch\\HPAudioSwitch.exe",
+    "lastpass": "C:\\Program Files (x86)\\Online Services\\LastPass\\WizLink.exe",
+    "microsoft edge": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "onedrive": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "pc health check": "C:\\Program Files\\PCHealthCheck\\PCHealthCheck.exe",
+    "visual studio installer": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe",
+    "remote desktop connection": "C:\\WINDOWS\\system32\\mstsc.exe",
+    "steps recorder": "C:\\WINDOWS\\system32\\psr.exe",
+    "windows fax and scan": "C:\\WINDOWS\\system32\\WFS.exe",
+    "windows media player legacy": "C:\\Program Files (x86)\\Windows Media Player\\wmplayer.exe",
+    "xps viewer": "C:\\WINDOWS\\system32\\xpsrchvw.exe",
+    "character map": "C:\\WINDOWS\\system32\\charmap.exe",
+    "dfrgui": "C:\\WINDOWS\\system32\\dfrgui.exe",
+    "disk cleanup": "C:\\WINDOWS\\system32\\cleanmgr.exe",
+    "iscsi initiator": "C:\\WINDOWS\\system32\\iscsicpl.exe",
+    "memory diagnostics tool": "C:\\WINDOWS\\system32\\MdSched.exe",
+    "odbc data sources (32-bit)": "C:\\WINDOWS\\syswow64\\odbcad32.exe",
+    "odbc data sources (64-bit)": "C:\\WINDOWS\\system32\\odbcad32.exe",
+    "recoverydrive": "C:\\WINDOWS\\system32\\RecoveryDrive.exe",
+    "registry editor": "C:\\WINDOWS\\regedit.exe",
+    "resource monitor": "C:\\WINDOWS\\system32\\perfmon.exe",
+    "system configuration": "C:\\WINDOWS\\system32\\msconfig.exe",
+    "system information": "C:\\WINDOWS\\system32\\msinfo32.exe",
+    "anydesk": "C:\\Program Files (x86)\\AnyDesk\\AnyDesk.exe",
+    "uninstall anydesk": "C:\\Program Files (x86)\\AnyDesk\\AnyDesk.exe",
+    "dropbox": "C:\\Program Files (x86)\\Dropbox\\Client\\Dropbox.exe",
+    "about java": "C:\\Program Files\\Java\\jre1.8.0_361\\bin\\javacpl.exe",
+    "check for updates": "C:\\Program Files\\Java\\jre1.8.0_361\\bin\\javacpl.exe",
+    "configure java": "C:\\Program Files\\Java\\jre1.8.0_361\\bin\\javacpl.exe",
+    "pycharm": "C:\\Program Files\\JetBrains\\PyCharm 2025.3.3\\bin\\pycharm64.exe",
+    "kompozer": "C:\\Program Files (x86)\\KompoZer\\kompozer.exe",
+    "uninstall kompozer": "C:\\Program Files (x86)\\KompoZer\\unins000.exe",
+    "microsoft silverlight": "C:\\Program Files\\Microsoft Silverlight\\5.1.50918.0\\Silverlight.Configuration.exe",
+    "install additional tools for node.js": "C:\\Windows\\System32\\cmd.exe",
+    "node.js command prompt": "C:\\Windows\\System32\\cmd.exe",
+    "node.js": "C:\\Program Files\\nodejs\\node.exe",
+    "uninstall node.js": "C:\\Windows\\SysWOW64\\msiexec.exe",
+    "geforce experience": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\NVIDIA GeForce Experience.exe",
+    "openoffice base": "C:\\Program Files (x86)\\OpenOffice 4\\program\\sbase.exe",
+    "openoffice calc": "C:\\Program Files (x86)\\OpenOffice 4\\program\\scalc.exe",
+    "openoffice draw": "C:\\Program Files (x86)\\OpenOffice 4\\program\\sdraw.exe",
+    "openoffice impress": "C:\\Program Files (x86)\\OpenOffice 4\\program\\simpress.exe",
+    "openoffice math": "C:\\Program Files (x86)\\OpenOffice 4\\program\\smath.exe",
+    "openoffice writer": "C:\\Program Files (x86)\\OpenOffice 4\\program\\swriter.exe",
+    "openoffice": "C:\\Program Files (x86)\\OpenOffice 4\\program\\soffice.exe",
+    "oracle object for ole class library help": "C:\\WINDOWS\\winhlp32.exe",
+    "oracle object for ole help": "C:\\WINDOWS\\winhlp32.exe",
+    "sql plus": "C:\\oracle\\product\\10.2.0\\db_2\\BIN\\sqlplusw.exe",
+    "administration assistant for windows": "C:\\oracle\\product\\10.2.0\\db_2\\MMC Snap-Ins\\ORAMMC10.exe",
+    "database configuration assistant": "C:\\oracle\\product\\10.2.0\\db_2\\BIN\\launch.exe",
+    "database upgrade assistant": "C:\\oracle\\product\\10.2.0\\db_2\\BIN\\launch.exe",
+    "locale builder": "C:\\oracle\\product\\10.2.0\\db_2\\BIN\\launch.exe",
+    "microsoft odbc administrator": "C:\\Windows\\System32\\odbcad32.exe",
+    "net configuration assistant": "C:\\oracle\\product\\10.2.0\\db_2\\BIN\\launch.exe",
+    "net manager": "C:\\oracle\\product\\10.2.0\\db_2\\BIN\\launch.exe",
+    "oracle directory manager": "C:\\oracle\\product\\10.2.0\\db_2\\BIN\\launch.exe",
+    "wallet manager": "C:\\oracle\\product\\10.2.0\\db_2\\BIN\\launch.exe",
+    "universal installer": "C:\\oracle\\product\\10.2.0\\db_2\\oui\\bin\\setup.exe",
+    "idle (python 3.10 64-bit)": "C:\\Program Files\\Python310\\pythonw.exe",
+    "python 3.10 (64-bit)": "C:\\Program Files\\Python310\\python.exe",
+    "python 3.10 manuals (64-bit)": "C:\\WINDOWS\\hh.exe",
+    "python 3.10 module docs (64-bit)": "C:\\Program Files\\Python310\\python.exe",
+    "task manager": "C:\\WINDOWS\\system32\\taskmgr.exe",
+    "tlauncher": "C:\\Users\\Ashish\\AppData\\Roaming\\.minecraft\\TLauncher.exe",
+    "vlc media player - reset preferences and cache files": "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe",
+    "vlc media player skinned": "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe",
+    "vlc media player": "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe",
+    "windows powershell ise (x86)": "C:\\WINDOWS\\syswow64\\WindowsPowerShell\\v1.0\\PowerShell_ISE.exe",
+    "windows powershell ise": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\PowerShell_ISE.exe",
+    "wise memory optimizer": "C:\\Program Files\\Wise\\Wise Memory Optimizer\\WiseMemoryOptimzer.exe",
+    "administrative tools": "C:\\WINDOWS\\system32\\control.exe",
+    "arduino ide": "C:\\Users\\Ashish\\AppData\\Local\\Programs\\Arduino IDE\\Arduino IDE.exe",
+    "pencil2d": "C:\\Users\\Ashish\\Downloads\\pencil2d-win64-0.6.6\\Pencil2D\\pencil2d.exe",
+    "scite32": "C:\\Users\\Ashish\\Downloads\\wscite\\SciTE32.exe",
+    "wps office": "C:\\Users\\Ashish\\AppData\\Local\\Kingsoft\\WPS Office\\ksolaunch.exe",
+    "wps pdf": "C:\\Users\\Ashish\\AppData\\Local\\Kingsoft\\WPS Office\\ksolaunch.exe",
+    "wps sheets": "C:\\Users\\Ashish\\AppData\\Local\\Kingsoft\\WPS Office\\ksolaunch.exe",
+    "wps slides": "C:\\Users\\Ashish\\AppData\\Local\\Kingsoft\\WPS Office\\ksolaunch.exe",
+    "wps\u00a0docs": "C:\\Users\\Ashish\\AppData\\Local\\Kingsoft\\WPS Office\\ksolaunch.exe",
+    "livecaptions": "C:\\WINDOWS\\system32\\LiveCaptions.exe",
+    "magnify": "C:\\WINDOWS\\system32\\magnify.exe",
+    "narrator": "C:\\WINDOWS\\system32\\narrator.exe",
+    "on-screen keyboard": "C:\\WINDOWS\\system32\\osk.exe",
+    "voiceaccess": "C:\\WINDOWS\\system32\\voiceaccess.exe",
+    "youtube": "C:\\Program Files\\Google\\Chrome\\Application\\chrome_proxy.exe",
+    "discord": "C:\\Users\\Ashish\\AppData\\Local\\Discord\\Update.exe",
+    "powertoys (preview)": "C:\\Users\\Ashish\\AppData\\Local\\PowerToys\\PowerToys.exe",
+    "steam": "C:\\Program Files (x86)\\Steam\\steam.exe",
+    "command prompt": "C:\\WINDOWS\\system32\\cmd.exe",
+    "windows powershell (x86)": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "windows powershell": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "wps office configuration tools": "C:\\Users\\Ashish\\AppData\\Local\\Kingsoft\\WPS Office\\12.2.0.23196\\office6\\ksomisc.exe",
+    "notepad": "C:\\Windows\\System32\\notepad.exe",
+    "calculator": "C:\\Windows\\System32\\calc.exe",
+    "cmd": "C:\\Windows\\System32\\cmd.exe"
+}"terminal": {
+  "method": "system",
+  "command": "cmd.exe"
+},
+
+"wise memory": {
+  "method": "exe",
+  "command": "C:\\Program Files\\Wise\\Wise Memory Optimizer\\WiseMemoryOptimzer.exe"
+},
+"task manager": {
+    "method": "system",
+    "command": "taskmgr.exe"
+},
+"taskmanager": {
+    "method": "system",
+    "command": "taskmgr.exe"
+},
+"chrome": {
+    "method": "file",
+    "command": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+},
+
+"cmd": {
+    "method": "system",
+    "command": "cmd.exe"
+},
+"explorer": {
+    "method": "system",
+    "command": "explorer.exe"
+},
+"browser": {
+    "method": "exe",
+    "command": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+},
+"yt": {
+    "method": "file",
+    "command": "C:\\Users\\Ashish\\Desktop\\YouTube.lnk"
+},
+"wa": {
+    "method": "uwp",
+    "command": "shell:AppsFolder\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App"
+},
+"ide": {
+    "method": "exe",
+    "command": "C:\\Program Files\\JetBrains\\PyCharm 2025.3.3\\bin\\pycharm64.exe"
+},
+"brave": {
+  "method": "exe",
+  "command": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+},
+"microsoft edge": {
+  "method": "exe",
+  "command": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+},
+
+"notepad": {
+  "method": "system",
+  "command": "notepad.exe"
+},
+"calculator": {
+  "method": "system",
+  "command": "calc.exe"
+},
+"command prompt": {
+  "method": "system",
+  "command": "cmd.exe"
+},
+"powershell": {
+  "method": "system",
+  "command": "powershell.exe"
+},
+"resource monitor": {
+  "method": "system",
+  "command": "perfmon.exe"
+},
+"on-screen keyboard": {
+  "method": "system",
+  "command": "osk.exe"
+},
+
+"python": {
+  "method": "exe",
+  "command": "C:\\Program Files\\Python310\\python.exe"
+},
+"pycharm": {
+  "method": "exe",
+  "command": "C:\\Program Files\\JetBrains\\PyCharm 2025.3.3\\bin\\pycharm64.exe"
+},
+
+"vlc": {
+  "method": "exe",
+  "command": "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe"
+},
+"windows media player": {
+  "method": "exe",
+  "command": "C:\\Program Files (x86)\\Windows Media Player\\wmplayer.exe"
+},
+
+"anydesk": {
+  "method": "exe",
+  "command": "C:\\Program Files (x86)\\AnyDesk\\AnyDesk.exe"
+},
+"dropbox": {
+  "method": "exe",
+  "command": "C:\\Program Files (x86)\\Dropbox\\Client\\Dropbox.exe"
+},
+"onedrive": {
+  "method": "exe",
+  "command": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe"
+},
+
+"arduino ide": {
+  "method": "exe",
+  "command": "C:\\Users\\Ashish\\AppData\\Local\\Programs\\Arduino IDE\\Arduino IDE.exe"
+},
+
+"wps office": {
+  "method": "exe",
+  "command": "C:\\Users\\Ashish\\AppData\\Local\\Kingsoft\\WPS Office\\ksolaunch.exe"
+},
+"wps pdf": {
+  "method": "exe",
+  "command": "C:\\Users\\Ashish\\AppData\\Local\\Kingsoft\\WPS Office\\ksolaunch.exe"
+},
+
+"wise memory optimizer": {
+  "method": "exe",
+  "command": "C:\\Program Files\\Wise\\Wise Memory Optimizer\\WiseMemoryOptimzer.exe"
+},
+
+"geforce experience": {
+  "method": "exe",
+  "command": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\NVIDIA GeForce Experience.exe"
+},
+
+"youtube": {
+    "method": "file",
+    "command": "C:\\Users\\Ashish\\Desktop\\YouTube.lnk"
+},
+"camera": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\Microsoft.WindowsCamera_8wekyb3d8bbwe!App"
+},
+"microsoft store": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\Microsoft.WindowsStore_8wekyb3d8bbwe!App"
+},
+"photos": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\Microsoft.Windows.Photos_8wekyb3d8bbwe!App"
+},
+"settings": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel"
+},
+"calendar": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.calendar"
+},
+"outlook": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\Microsoft.OutlookForWindows_8wekyb3d8bbwe!Microsoft.OutlookforWindows"
+},
+"clock": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\Microsoft.WindowsAlarms_8wekyb3d8bbwe!App"
+},
+"whatsapp": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App"
+},
+"file explorer": {
+  "method": "system",
+  "command": "explorer.exe"
+},
+"weather": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\Microsoft.BingWeather_8wekyb3d8bbwe!App"
+},
+"copilot": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\Microsoft.Copilot_8wekyb3d8bbwe!App"
+},
+"chess 3d": {
+  "method": "uwp",
+  "command": "shell:AppsFolder\\ATrillionGamesLtd.3DChessMaster_2cw2yhd8jafk0!App"
+},
+"gmail": {
+  "method": "exe",
+  "command": "chrome.exe --profile-directory=\"Profile 3\" https://mail.google.com"
+},
+"chatgpt": {
+  "method": "file",
+  "command": "\"C:\\\\Users\\\\Ashish\\\\Desktop\\\\ChatGPT (Ashish).lnk\""
+},
+"gpt": {
+  "method": "file",
+  "command": "C:\\Users\\Ashish\\Desktop\\ChatGPT (Ashish).lnk"
+},
+"claude": {
+  "method": "file",
+  "command": "C:\\Users\\Ashish\\Desktop\\Claude (Ashish).lnk"
+},
+"system info": {
+  "method": "plugin",
+  "command": "system_info"
+},
+"ss": {
+  "method": "file",
+  "command": "C:\\Users\\Ashish\\Desktop\\VAP-SS"
+},
+"system control": {
+  "method": "plugin",
+  "command": "system_control"
+},
+"volume": {
+  "method": "plugin",
+  "command": "system_control"
+},
+"sysinfo": {
+  "method": "plugin",
+  "command": "system_info"
+}
+}
+

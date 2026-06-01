@@ -1,0 +1,2 @@
+Set WshShell = CreateObject("WScript.Shell")
+WshShell.Run """C:\Users\Ashish\AppData\Local\Programs\Python\Python310\python.exe"" ""C:\Users\Ashish\PycharmProjects\PythonProject\vap_hotkey_daemon.py""", 0, False
