@@ -9,7 +9,7 @@ import edge_tts
 VOICE = "en-GB-RyanNeural"
 AUDIO_FILE = r"C:\Users\Ashish\VAP\welcome_audio.mp3"
 PYTHON = r"C:\Users\Ashish\AppData\Local\Programs\Python\Python310\python.exe"
-MAIN = r"C:\Users\Ashish\VAP\vap_control.py"
+MAIN = r"C:\Users\Ashish\PycharmProjects\PythonProject\main.py"
 
 TAP_WINDOW = 5.0        # was 0.8 — more breathing room
 REQUIRED_TAPS = 3
