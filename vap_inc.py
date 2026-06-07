@@ -22,6 +22,7 @@ Hotkey entry: Win+Alt+I via vap_hotkey_daemon.py
 
 import sys
 import os
+os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = '1'  # ← must be FIRST, before pygame import
 import time
 import threading
 import msvcrt  # built-in on Windows — no install needed
@@ -65,10 +66,7 @@ EXIT_COMMANDS   = ["exit", "quit", "q"]
 
 def init_beep():
     try:
-        import os
         import pygame
-        # Suppress pygame's startup banner - MUST be set before mixer.init()
-        os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = '1'
         pygame.mixer.init()
         if os.path.isfile(BEEP_PATH):
             sound = pygame.mixer.Sound(BEEP_PATH)
